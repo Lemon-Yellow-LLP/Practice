@@ -1,4 +1,4 @@
-1.)git add \* -->
+1.)git add \* --> Adds files to staging area.
 
 2.)git commit -a -m"Push" -->
 
